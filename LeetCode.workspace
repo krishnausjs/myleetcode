@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="LeetCode" Database="" Version="10.0.0">
+  <Project Name="912_sort_an_array" Path="912_sort_an_array/912_sort_an_array.project" Active="No"/>
+  <Project Name="665_non_decreasing_array" Path="665_non_decreasing_array/665_non_decreasing_array.project" Active="No"/>
+  <Project Name="448_find_all_numbers_disappeared_in_an_array" Path="448_find_all_numbers_disappeared_in_an_array/448_find_all_numbers_disappeared_in_an_array.project" Active="No"/>
+  <Project Name="2_add_two_numbers" Path="2_add_two_numbers/2_add_two_numbers.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="912_sort_an_array" ConfigName="Debug"/>
+      <Project Name="665_non_decreasing_array" ConfigName="Debug"/>
+      <Project Name="448_find_all_numbers_disappeared_in_an_array" ConfigName="Debug"/>
+      <Project Name="2_add_two_numbers" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="912_sort_an_array" ConfigName="Release"/>
+      <Project Name="665_non_decreasing_array" ConfigName="Release"/>
+      <Project Name="448_find_all_numbers_disappeared_in_an_array" ConfigName="Release"/>
+      <Project Name="2_add_two_numbers" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
